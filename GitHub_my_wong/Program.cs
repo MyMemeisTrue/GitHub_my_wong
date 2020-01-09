@@ -9,6 +9,7 @@ namespace GitHub_my_wong
             Console.WriteLine("Hello World!");
 
             Console.WriteLine("And there is a change");
+            Console.WriteLine("And this is also a change");
         }
     }
 }
